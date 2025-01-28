@@ -32,6 +32,17 @@ Nosso objetivo é criar um ecossistema onde cada usuário tenha o suporte necess
 
 ---
 
+## 🔧 Funcinalidade 
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+---
+
 ## 👥 Contribua Conosco  
 Quer fazer parte dessa missão transformadora? Confira como contribuir:  
 1. Clone o repositório:  
