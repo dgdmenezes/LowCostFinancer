@@ -36,5 +36,5 @@ Nosso objetivo é criar um ecossistema onde cada usuário tenha o suporte necess
 Quer fazer parte dessa missão transformadora? Confira como contribuir:  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/startup-microfinancas.git
-   cd startup-microfinancas
+   git clone https://github.com/dgdmenezes/LowCostFinancer/
+   cd LowCostFinancer
